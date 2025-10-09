@@ -1,6 +1,6 @@
 # 🩺 TRUST-SCAN
 
-> TRUST-SCAN is a comprehensive digital healthcare platform designed to streamline the management and sharing of medical records between patients and healthcare providers. With a focus on security, privacy, and controlled access, TRUST-SCAN ensures that sensitive medical data remains protected while enabling seamless collaboration between patients and doctors. — powered by **Spring Boot**, **React**, and **MySQL**.
+> TRUST-SCAN is a comprehensive digital healthcare platform designed to streamline the management and sharing of medical records between patients and healthcare providers. With a focus on security, privacy, and controlled access, TRUST-SCAN ensures that sensitive medical data remains protected while enabling seamless collaboration between patients and doctors.— powered by **Spring Boot**, **React**, and **MySQL**.
 
 ---
 
